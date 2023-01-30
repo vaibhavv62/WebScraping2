@@ -1,4 +1,4 @@
-# WebScraping - MicroPyramidTask2 
+# WebScraping
 
 ## This project contains 3 files:
     1] ScrapData.py (Python Script-Task1)
